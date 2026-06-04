@@ -154,4 +154,4 @@ Customer Rank by Name = RANKX(ALL(customers[Name]), [Total Revenue],, DESC)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/balu-analytics)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balu1613)
+[![GitHub]--https://github.com/balu1613/Adventure-Works-Sales-and-Performance-Analysis
